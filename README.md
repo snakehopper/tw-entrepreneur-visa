@@ -32,12 +32,14 @@
 - 兩吋彩色照片 **2** 張 _照片背景須以白色為底色_
 - 護照正本，有效期需6個月以上
 -  **高中以上** 之畢業證書及成績單
-- 投審員會規定文件，參照  [投審會提供的zip檔](http://www.moeaic.gov.tw/system_external/ctlr?PRO=DownloadFile&t=3&id=170) 裡 `附表及申請新創事業認定應備文件.pdf` 的 **應備文件** 欄
+- 投審員會規定文件，參照[附表及申請新創事業認定應備文件.pdf](附表及申請新創事業認定應備文件.pdf) 的 **應備文件** 欄
 - 影印畢業證書及成績單
 - 影印護照 **有照片的那頁** ，和 **最近一次入境頁**
 - 創業家簽證資格審查申請表。[填寫要點](#moeaic-forms)
 
 未解譯之原始官方內容請見： http://www.boca.gov.tw/content.asp?mp=1&CuItem=7102 
+
+投審會官方提供的中文版資料： [zip](http://www.moeaic.gov.tw/system_external/ctlr?PRO=DownloadFile&t=3&id=170)
 
 ## Documentation
 
@@ -65,13 +67,13 @@
 ### moeaic-forms
 
 ##### 下載
-[官方zip打包檔](http://www.moeaic.gov.tw/system_external/ctlr?PRO=DownloadFile&t=3&id=170)
+[官方中文版資料zip打包檔](http://www.moeaic.gov.tw/system_external/ctlr?PRO=DownloadFile&t=3&id=170)
  
 ##### 填寫
-請列印附檔的 `基本資料表.docx` 出來並填寫
+請列印附檔的 [基本資料表.docx](基本資料表.docx) 出來，並填寫
 
 ###### 申請資格代碼
-請見檔案 `附表及申請新創事業認定應備文件.pdf` 的資格條件 (如是AppWorks就填 **1.2** )
+請見檔案 [附表及申請新創事業認定應備文件.pdf](附表及申請新創事業認定應備文件.pdf) 的資格條件 (如是AppWorks就填 **1.2** )
 
 
 ### roc-forms
@@ -91,7 +93,7 @@
 3. 聘僱全職臺籍員工數達三人以上。
 4. 其他足資審核之營運實績，並經目的事業主管機關認定對國內經濟發展有貢獻。
 
-**Note:** 所需文件可參考投審會 [官方zip打包檔](http://www.moeaic.gov.tw/system_external/ctlr?PRO=DownloadFile&t=3&id=170) 裡 `附表及申請新創事業認定應備文件.pdf` 的第四點
+**Note:** 所需文件可參考投審會 [附表及申請新創事業認定應備文件.pdf](附表及申請新創事業認定應備文件.pdf) 的第四點
 
 ## References
 
@@ -112,4 +114,4 @@ Ans: 不行，投審會不接受個人送件。民眾能登門造訪諮詢，但
 
 #### 取得居留證有什麼好處？
 
-ans: 不用例行出境、不用買回程機票、可以辦手機門號、可以開銀行戶口
+Ans: 不用例行出境、不用買回程機票、可以辦手機門號、可以開銀行戶口
